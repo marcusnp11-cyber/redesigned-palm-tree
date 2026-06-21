@@ -1,0 +1,15 @@
+<nav style="background:#111;padding:15px;">
+  <ul style="list-style:none;display:flex;gap:20px;margin:0;">
+    <li><a href="index.html" style="color:white;text-decoration:none;">Home</a></li>
+    <li><a href="#about" style="color:white;text-decoration:none;">About</a></li>
+    <li><a href="#projects" style="color:white;text-decoration:none;">Projects</a></li>
+    <li>
+      <a href="writeups/index.html" style="color:white;text-decoration:none;">
+        Writeups
+      </a>
+    </li>
+    <li><a href="#contact" style="color:white;text-decoration:none;">Contact</a></li>
+  </ul>
+</nav>
+`writeups/
+ 
